@@ -15,7 +15,7 @@ Faculty of Arts and Science - Arts and Science Internship Program (ASIP)
 
 ## 💼 Professional Experience
 
-**Data Analyst Intern** | FlyGreatChina E-Travel, Toronto, ON *(May 2022 - August 2022)*
+**Data Analyst Intern** | FlyGreatChina E-Travel, Toronto, ON *(May 2024 - August 2024)*
 - Enhanced data mining and visualization techniques, contributing to a 40% increase in client retention.
 - Implemented predictive models, improving customer experience and satisfaction.
 
